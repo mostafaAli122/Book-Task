@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+  elasticsearch:
+    build:
+      context: .
+      dockerfile: Dockerfile.elasticsearch
+    ports:
+      - "9200:9200"
+      - "9300:9300"
+
+  redis:
+    build:
+      context: .
+      dockerfile: Dockerfile.redis
+    ports:
+      - "6379:6379"

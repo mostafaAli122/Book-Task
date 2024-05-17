@@ -1,0 +1,15 @@
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Presentation\bin\Debug\net8.0\ElmTest.Application.deps.json
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Presentation\bin\Debug\net8.0\ElmTest.Application.dll
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Presentation\bin\Debug\net8.0\ElmTest.Application.pdb
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Presentation\bin\Debug\net8.0\ElmTest.Domain.dll
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Presentation\bin\Debug\net8.0\ElmTest.Domain.pdb
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Presentation\obj\Debug\net8.0\ElmTest.Application.csproj.AssemblyReference.cache
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Presentation\obj\Debug\net8.0\ElmTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Presentation\obj\Debug\net8.0\ElmTest.Application.AssemblyInfoInputs.cache
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Presentation\obj\Debug\net8.0\ElmTest.Application.AssemblyInfo.cs
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Presentation\obj\Debug\net8.0\ElmTest.Application.csproj.CoreCompileInputs.cache
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Presentation\obj\Debug\net8.0\ElmTest.Application.csproj.CopyComplete
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Presentation\obj\Debug\net8.0\ElmTest.Application.dll
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Presentation\obj\Debug\net8.0\refint\ElmTest.Application.dll
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Presentation\obj\Debug\net8.0\ElmTest.Application.pdb
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Presentation\obj\Debug\net8.0\ref\ElmTest.Application.dll

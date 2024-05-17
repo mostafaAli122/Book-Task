@@ -1,0 +1,8 @@
+# Use the official Elasticsearch Docker image
+FROM docker.elastic.co/elasticsearch/elasticsearch:7.10.2
+
+# Expose ports
+EXPOSE 9200 9300
+
+# Set environment variables for Elasticsearch configuration
+ENV discovery.type=single-node

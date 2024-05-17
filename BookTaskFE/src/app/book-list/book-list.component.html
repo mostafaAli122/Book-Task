@@ -1,0 +1,26 @@
+<div class="container">
+    <h1>Book List</h1>
+    <input
+      type="text"
+      placeholder="Search for books..."
+      [(ngModel)]="searchTerm"
+      (keydown)="onSearchKey($event)"
+    />
+    <button (click)="searchBooks()">Search</button>
+    <div *ngIf="books.length">
+      <ul>
+        <li *ngFor="let book of books">
+          <h2>{{ book.bookInfoObj.bookTitle }}</h2>
+          <p>{{ book.bookInfoObj.bookDescription }}</p>
+          <p><strong>Author:</strong> {{ book.bookInfoObj.author }}</p>
+          <p><strong>Published Date:</strong> {{ book.bookInfoObj.publishDate |date }}</p>
+        </li>
+      </ul>
+      <!-- <button (click)="page > 0 ? page-- : 0; getBooks()">Previous</button>
+      <button (click)="page++; getBooks()">Next</button> -->
+    </div>
+    <div *ngIf="!books.length">
+      <p>No books found.</p>
+    </div>
+  </div>
+  

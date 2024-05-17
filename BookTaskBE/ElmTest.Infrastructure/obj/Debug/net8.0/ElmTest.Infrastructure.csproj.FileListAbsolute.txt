@@ -1,0 +1,15 @@
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Infrastructure\bin\Debug\net8.0\ElmTest.Infrastructure.deps.json
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Infrastructure\bin\Debug\net8.0\ElmTest.Infrastructure.dll
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Infrastructure\bin\Debug\net8.0\ElmTest.Infrastructure.pdb
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Infrastructure\bin\Debug\net8.0\ElmTest.Domain.dll
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Infrastructure\bin\Debug\net8.0\ElmTest.Domain.pdb
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Infrastructure\obj\Debug\net8.0\ElmTest.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Infrastructure\obj\Debug\net8.0\ElmTest.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Infrastructure\obj\Debug\net8.0\ElmTest.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Infrastructure\obj\Debug\net8.0\ElmTest.Infrastructure.AssemblyInfo.cs
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Infrastructure\obj\Debug\net8.0\ElmTest.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Infrastructure\obj\Debug\net8.0\ElmTest.Infrastructure.csproj.CopyComplete
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Infrastructure\obj\Debug\net8.0\ElmTest.Infrastructure.dll
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Infrastructure\obj\Debug\net8.0\refint\ElmTest.Infrastructure.dll
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Infrastructure\obj\Debug\net8.0\ElmTest.Infrastructure.pdb
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Infrastructure\obj\Debug\net8.0\ref\ElmTest.Infrastructure.dll

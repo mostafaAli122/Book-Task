@@ -1,0 +1,11 @@
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Domain\bin\Debug\net8.0\ElmTest.Domain.deps.json
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Domain\bin\Debug\net8.0\ElmTest.Domain.dll
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Domain\bin\Debug\net8.0\ElmTest.Domain.pdb
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Domain\obj\Debug\net8.0\ElmTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Domain\obj\Debug\net8.0\ElmTest.Domain.AssemblyInfoInputs.cache
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Domain\obj\Debug\net8.0\ElmTest.Domain.AssemblyInfo.cs
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Domain\obj\Debug\net8.0\ElmTest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Domain\obj\Debug\net8.0\ElmTest.Domain.dll
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Domain\obj\Debug\net8.0\refint\ElmTest.Domain.dll
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Domain\obj\Debug\net8.0\ElmTest.Domain.pdb
+C:\Users\Shimaa\Downloads\Assignment\ElmTest.Domain\obj\Debug\net8.0\ref\ElmTest.Domain.dll

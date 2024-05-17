@@ -1,0 +1,287 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Shimaa\\Downloads\\BookTask\\BookTaskBE\\ElmTest.PresentationApi\\ElmTest.PresentationApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Shimaa\\Downloads\\BookTask\\BookTaskBE\\ElmTest.Domain\\ElmTest.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shimaa\\Downloads\\BookTask\\BookTaskBE\\ElmTest.Domain\\ElmTest.Domain.csproj",
+        "projectName": "ElmTest.Domain",
+        "projectPath": "C:\\Users\\Shimaa\\Downloads\\BookTask\\BookTaskBE\\ElmTest.Domain\\ElmTest.Domain.csproj",
+        "packagesPath": "C:\\Users\\Shimaa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shimaa\\Downloads\\BookTask\\BookTaskBE\\ElmTest.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Shimaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Shimaa\\Downloads\\BookTask\\BookTaskBE\\ElmTest.Infrastructure\\ElmTest.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shimaa\\Downloads\\BookTask\\BookTaskBE\\ElmTest.Infrastructure\\ElmTest.Infrastructure.csproj",
+        "projectName": "ElmTest.Infrastructure",
+        "projectPath": "C:\\Users\\Shimaa\\Downloads\\BookTask\\BookTaskBE\\ElmTest.Infrastructure\\ElmTest.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Shimaa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shimaa\\Downloads\\BookTask\\BookTaskBE\\ElmTest.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Shimaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Shimaa\\Downloads\\BookTask\\BookTaskBE\\ElmTest.Domain\\ElmTest.Domain.csproj": {
+                "projectPath": "C:\\Users\\Shimaa\\Downloads\\BookTask\\BookTaskBE\\ElmTest.Domain\\ElmTest.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "NEST": {
+              "target": "Package",
+              "version": "[7.17.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Shimaa\\Downloads\\BookTask\\BookTaskBE\\ElmTest.PresentationApi\\ElmTest.PresentationApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shimaa\\Downloads\\BookTask\\BookTaskBE\\ElmTest.PresentationApi\\ElmTest.PresentationApi.csproj",
+        "projectName": "ElmTest.PresentationApi",
+        "projectPath": "C:\\Users\\Shimaa\\Downloads\\BookTask\\BookTaskBE\\ElmTest.PresentationApi\\ElmTest.PresentationApi.csproj",
+        "packagesPath": "C:\\Users\\Shimaa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shimaa\\Downloads\\BookTask\\BookTaskBE\\ElmTest.PresentationApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Shimaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Shimaa\\Downloads\\BookTask\\BookTaskBE\\ElmTest.Domain\\ElmTest.Domain.csproj": {
+                "projectPath": "C:\\Users\\Shimaa\\Downloads\\BookTask\\BookTaskBE\\ElmTest.Domain\\ElmTest.Domain.csproj"
+              },
+              "C:\\Users\\Shimaa\\Downloads\\BookTask\\BookTaskBE\\ElmTest.Infrastructure\\ElmTest.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Shimaa\\Downloads\\BookTask\\BookTaskBE\\ElmTest.Infrastructure\\ElmTest.Infrastructure.csproj"
+              },
+              "C:\\Users\\Shimaa\\Downloads\\BookTask\\BookTaskBE\\ElmTest.Presentation\\ElmTest.Application.csproj": {
+                "projectPath": "C:\\Users\\Shimaa\\Downloads\\BookTask\\BookTaskBE\\ElmTest.Presentation\\ElmTest.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NEST": {
+              "target": "Package",
+              "version": "[7.17.5, )"
+            },
+            "NEST.7xUpgradeAssistant": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Shimaa\\Downloads\\BookTask\\BookTaskBE\\ElmTest.Presentation\\ElmTest.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Shimaa\\Downloads\\BookTask\\BookTaskBE\\ElmTest.Presentation\\ElmTest.Application.csproj",
+        "projectName": "ElmTest.Application",
+        "projectPath": "C:\\Users\\Shimaa\\Downloads\\BookTask\\BookTaskBE\\ElmTest.Presentation\\ElmTest.Application.csproj",
+        "packagesPath": "C:\\Users\\Shimaa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shimaa\\Downloads\\BookTask\\BookTaskBE\\ElmTest.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Shimaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Shimaa\\Downloads\\BookTask\\BookTaskBE\\ElmTest.Domain\\ElmTest.Domain.csproj": {
+                "projectPath": "C:\\Users\\Shimaa\\Downloads\\BookTask\\BookTaskBE\\ElmTest.Domain\\ElmTest.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
