@@ -27,6 +27,8 @@ builder.Services.AddStackExchangeRedisCache(options =>
 var elasticsearchUri = new Uri(builder.Configuration["ElasticsearchSettings:Uri"]);
 
 // Configure other services
+builder.Services.AddSingleton<IIndexService, IndexService>();
+
 builder.Services.AddTransient<IBookRepository>(provider =>
     new BookRepository(elasticsearchUri,builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddTransient<BookService>();
@@ -45,5 +47,8 @@ app.UseCors("CorsPolicy");
 app.UseAuthorization();
 
 app.MapControllers();
+//Ensure Calling index Elastic Search Method Once at first Per Application life time 
+var indexService = app.Services.GetRequiredService<IIndexService>();
+await indexService.IndexAllBooksAsync();
 
 app.Run();

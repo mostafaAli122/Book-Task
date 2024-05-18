@@ -39,4 +39,15 @@ export class BookListComponent implements OnInit {
       this.searchBooks();
     }
   }
+  previousPage() {
+    if (this.page > 0) {
+      this.page--;
+      this.getBooks();
+    }
+  }
+
+  nextPage() {
+    this.page++;
+    this.getBooks();
+  }
 }

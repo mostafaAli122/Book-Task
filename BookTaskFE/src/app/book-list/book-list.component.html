@@ -16,8 +16,8 @@
           <p><strong>Published Date:</strong> {{ book.bookInfoObj.publishDate |date }}</p>
         </li>
       </ul>
-      <!-- <button (click)="page > 0 ? page-- : 0; getBooks()">Previous</button>
-      <button (click)="page++; getBooks()">Next</button> -->
+      <button (click)="previousPage()">Previous</button>
+      <button (click)="nextPage()">Next</button>
     </div>
     <div *ngIf="!books.length">
       <p>No books found.</p>
